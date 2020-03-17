@@ -1,6 +1,16 @@
 # QUEKO - Quantum Mapping Examples with Known Optimal
 
-This is the benchmark circuits used in this [paper]().
+This is the benchmark circuits used in this [paper](https://arxiv.org/abs/2002.09783).
+```
+@misc{tan2020optimality,
+    title={Optimality Study of Existing Quantum Computing Layout Synthesis Tools},
+    author={Bochen Tan and Jason Cong},
+    year={2020},
+    eprint={2002.09783},
+    archivePrefix={arXiv},
+    primaryClass={quant-ph}
+}
+```
 
 The device layouts can be found in `CONNECTION.py`, where `INDEX_CONNECTION_LIST` stores all the edges in the corresponding device layouts as tuples of qubit indices.
 
