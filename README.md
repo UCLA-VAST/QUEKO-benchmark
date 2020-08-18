@@ -2,13 +2,18 @@
 
 This is the benchmark circuits used in this [paper](https://arxiv.org/abs/2002.09783).
 ```
-@misc{tan2020optimality,
-    title={Optimality Study of Existing Quantum Computing Layout Synthesis Tools},
-    author={Bochen Tan and Jason Cong},
-    year={2020},
-    eprint={2002.09783},
-    archivePrefix={arXiv},
-    primaryClass={quant-ph}
+@Article{tc20-tan-cong-optimality-layout-queko,
+  author        = {Tan, Bochen and Cong, Jason},
+  journal       = {IEEE Transactions on Computers},
+  title         = {Optimality Study of Existing Quantum Computing Layout Synthesis Tools},
+  year          = {2020},
+  month         = jul,
+  archiveprefix = {arXiv},
+  copyright     = {All rights reserved},
+  doi           = {10.1109/TC.2020.3009140},
+  eprint        = {2002.09783},
+  language      = {en},
+  primaryclass  = {quant-ph},
 }
 ```
 
